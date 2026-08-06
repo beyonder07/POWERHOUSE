@@ -11,3 +11,7 @@
 ### 7/19/2026 - Error Boundaries and Global Exception Handlers
 - Completed learning segment on: *Refactored asynchronous operations using modern error handling practices.*
 - Sandbox action completed: `Implemented mock API service to bypass development blockages.`
+
+### 8/6/2026 - Unit Testing with Vitest and Mocking Networks
+- Completed learning segment on: *Refactored asynchronous operations using modern error handling practices.*
+- Sandbox action completed: `Refined README stats layout with progress bars.`
