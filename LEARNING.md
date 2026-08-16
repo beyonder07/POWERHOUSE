@@ -15,3 +15,7 @@
 ### 8/6/2026 - Unit Testing with Vitest and Mocking Networks
 - Completed learning segment on: *Refactored asynchronous operations using modern error handling practices.*
 - Sandbox action completed: `Refined README stats layout with progress bars.`
+
+### 8/16/2026 - Redis Caching & Pub-Sub Mechanisms
+- Completed learning segment on: *Configured and optimized local background worker schedules.*
+- Sandbox action completed: `Configured custom workflow properties inside the action configuration.`
